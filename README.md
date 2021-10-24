@@ -1,4 +1,4 @@
-### Probability Calculator is a project part of freeCodeCamp's Scientific Computing with Python course.
+#### Probability Calculator is a project part of freeCodeCamp's [Scientific Computing with Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/), the solution can be found in the file *prob_calculator.py*.
 
 ### Assignment
 
